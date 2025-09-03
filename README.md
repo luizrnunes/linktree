@@ -1,4 +1,6 @@
 ![GitHub License](https://img.shields.io/github/license/luizrnunes/linktree?style=for-the-badge)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fluizrnunes.github.io%2Flinktree%2F)
+
 
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
