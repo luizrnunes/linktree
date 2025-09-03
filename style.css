@@ -1,0 +1,86 @@
+/* CSS Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Variáveis */
+:root {
+    --cinzaClaro: #e6e6e6;
+    --cinzaMedio: #d9d9d9;
+    --cinzaEscuro: #f1f1f1;
+}
+
+/* cabeçalho */
+header {
+    text-align: center;
+}
+
+header img {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin-top: 70px;
+
+}
+
+header h1 {
+    color: #c5c4c4;
+    font-size: 1.75rem;
+    font-weight: 200;
+    margin: 12px 0px 12px 0px;
+    font-family: "Jacquard 24";
+
+}
+
+header h2 {
+    color: #c5c4c4;
+    font-size: 1.15rem;
+    font-weight: 300;
+    max-width: 200px;
+    margin-bottom: 40px;
+    font-family: "Joan";
+}
+
+/* Principal */
+
+main a {
+    background-color: #394e4a;
+    width: 360px;
+    height: 60px;
+    margin-bottom: 30px;
+    text-decoration: none;
+    color: #c5c4c4;
+    text-align: center;
+    padding-top: 20px; 
+    border-radius: 32px;
+    font-family: "Jim Nightshade";
+    font-size: 20px;
+
+}
+
+/* Rodapé */
+
+footer {
+    margin-top: 20px;
+}
+
+footer img {
+    margin: 0px 30px 0px 30px;
+}
+.container,
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+html {
+    font-size: 16px;
+}
+
+body {
+    font-family: "open sans", sans-serif;
+    background-color: #1d2e2b;
+}
