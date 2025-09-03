@@ -14,3 +14,5 @@
 Um projeto minimalista que reproduz o estilo do Linktree usando apenas HTML e CSS. Ideal para portifólios, perfis pessoais e páginas de links rápidas, sem depender de JavaScript ou frameworks.
 ## Autor
 Luiz Henrique Rodrigues Nunes
+
+![](img/printTela.png)
